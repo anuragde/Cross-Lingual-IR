@@ -1,5 +1,4 @@
 # Cross-Lingual-IR
-Cross Lingual Information Retrieval System. [Information Retrieval Course Final Group Project]
 Information retrieval system based on the Okapi BM25 model, allowing the users to search for tweets (docs.) across multiple languages. 
 
 This is the fourth (Team of four) and the final project of the Information Retrieval course (CSE 535).
